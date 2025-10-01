@@ -23,7 +23,7 @@ _iOS App Developers – (2022년 12월 \~ )_
 
 ‘[ABC Wallet](https://apps.apple.com/kr/app/id1642837445)’ 앱은 초기에 외주사를 통해 **React Native 기반의 하이브리드 앱**으로 개발되었으며, 저는 Android 개발자와 함께 약 1년간 해당 앱을 유지보수했습니다. 이 경험을 통해 하이브리드 앱의 구조적 장점과 한계를 모두 체감할 수 있었고, 이후 앱의 성능과 확장성을 높이기 위해 Native 전환을 주도했습니다. 약 4개월 만에 기존 기능은 물론 Swap, Aptos 네트워크 등 신규 기능을 포함한 iOS 앱을 완성해 출시하였습니다.
 
-두 플랫폼 간의 구조적 일관성을 유지하기 위해 **Clean Architecture를 도입**하였고, iOS 프로젝트는 추후 **SPM(Swift Package Manager)을 기반으로 Domain, Data, Presentation 모듈로 분리**하여 관리했습니다. Domain과 Data는 **Swift Concurrency를 적극 활용**해 비동기 로직을 간결하고 안정적으로 처리했고, Presentation은 **SwiftUI + Combine 기반의 MVVM 패턴**을 적용했습니다. 또한, 복잡한 Wallet API의 흐름을 클라이언트에 추상화하기 위해 사내 제품인 [\*\*WaaS 의 SDK](https://www.notion.so/README-236e0b78181d81269ca2c61319b8126e?pvs=21)를 직접 설계\*\*하여, 핵심 기능을 일관되고 안정적으로 사용할 수 있도록 구조화했습니다.
+두 플랫폼 간의 구조적 일관성을 유지하기 위해 **Clean Architecture를 도입**하였고, iOS 프로젝트는 추후 **SPM(Swift Package Manager)을 기반으로 Domain, Data, Presentation 모듈로 분리**하여 관리했습니다. Domain과 Data는 **Swift Concurrency를 적극 활용**해 비동기 로직을 간결하고 안정적으로 처리했고, Presentation은 **SwiftUI + Combine 기반의 MVVM 패턴**을 적용했습니다. 또한, 복잡한 Wallet API의 흐름을 클라이언트에 추상화하기 위해 사내 제품인 [**WaaS 의 SDK**](portfolio/abc-wallet/waas-sdk.md)**를 직접 설계**하여, 핵심 기능을 일관되고 안정적으로 사용할 수 있도록 구조화했습니다.
 
 이처럼 구조적으로 분리된 모듈 덕분에, 이후 GX(Ground X)사의 ‘[Klip](https://apps.apple.com/kr/app/id1627665524)’ 앱에 새로운 블록체인 네트워크(비트코인, 솔라나, 트론, 아비트럼 등)를 통합하는 과정에서도 **ABC Wallet에서 개발한 모듈을 안정적으로 이식**할 수 있었고, 최소한의 코드 수정으로 높은 재사용성과 안정성을 확보했습니다.
 
