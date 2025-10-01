@@ -1,12 +1,21 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+---
+
 # 경력기술서
-
-### [하루하루 (DayDay) / 15만 다운로드, 평점 4.6 & 5000개 리뷰](https://apps.apple.com/kr/app/id1452035712)
-
-‘하루하루’ 앱은 **CoreGraphics와 CoreAnimation을 활용**해 UIView에 직접 선과 면을 그리는 데서 시작된 프로젝트로, 독창적인 UI/UX를 제공하는 시간 계획표 애플리케이션입니다. 특히 방학시간표를 모티브로한 원형 시간표는 한국 사용자를 대상으로 한 차별화된 기능으로 큰 인기를 얻었습니다.
-
-출시 이후에도 CoreData, WidgetKit, WatchKit, StoreKit, CloudKit 등의 Framework 를 추가적으로 사용하였고, SiriKit 과 CoreML 의 활용방안을 검토하며 **사용자 경험을 강화하고자 노력**하였습니다. **이 앱은 국내 생산성 카테고리 유료 앱 1위, 유료 앱 전체 순위 Top 2를 기록했으며, 누적 다운로드 15만 건을 돌파했습니다. 또한, 5000개 이상의 리뷰에서 평균 평점 4.6점을 유지**하며 높은 사용자 만족도를 증명했습니다.
-
-하루하루는 1인 개발자로서 기획부터 운영까지 모든 과정을 맡아, 사용자 중심의 사고를 길렀던 소중한 경험이었습니다.
 
 ### [ABC (AhnLab Blockchain Company)](https://ahnlabblockchain.company)
 
@@ -19,6 +28,14 @@ _iOS App Developers – (2022년 12월 \~ )_
 이처럼 구조적으로 분리된 모듈 덕분에, 이후 GX(Ground X)사의 ‘[Klip](https://apps.apple.com/kr/app/id1627665524)’ 앱에 새로운 블록체인 네트워크(비트코인, 솔라나, 트론, 아비트럼 등)를 통합하는 과정에서도 **ABC Wallet에서 개발한 모듈을 안정적으로 이식**할 수 있었고, 최소한의 코드 수정으로 높은 재사용성과 안정성을 확보했습니다.
 
 이 프로젝트를 통해 제가 갖추게 된 가장 큰 강점은 **복잡한 도메인을 설계와 모듈화 관점에서 정리하고, 확장 가능한 구조로 구현하는 역량을 갖추**었습니다.
+
+### [하루하루 (DayDay) / 15만 다운로드, 평점 4.6 & 5000개 리뷰](https://apps.apple.com/kr/app/id1452035712)
+
+‘하루하루’ 앱은 **CoreGraphics와 CoreAnimation을 활용**해 UIView에 직접 선과 면을 그리는 데서 시작된 프로젝트로, 독창적인 UI/UX를 제공하는 시간 계획표 애플리케이션입니다. 특히 방학시간표를 모티브로한 원형 시간표는 한국 사용자를 대상으로 한 차별화된 기능으로 큰 인기를 얻었습니다.
+
+출시 이후에도 CoreData, WidgetKit, WatchKit, StoreKit, CloudKit 등의 Framework 를 추가적으로 사용하였고, SiriKit 과 CoreML 의 활용방안을 검토하며 **사용자 경험을 강화하고자 노력**하였습니다. **이 앱은 국내 생산성 카테고리 유료 앱 1위, 유료 앱 전체 순위 Top 2를 기록했으며, 누적 다운로드 15만 건을 돌파했습니다. 또한, 5000개 이상의 리뷰에서 평균 평점 4.6점을 유지**하며 높은 사용자 만족도를 증명했습니다.
+
+하루하루는 1인 개발자로서 기획부터 운영까지 모든 과정을 맡아, 사용자 중심의 사고를 길렀던 소중한 경험이었습니다.
 
 ### Avanssion
 
