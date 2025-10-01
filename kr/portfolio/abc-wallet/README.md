@@ -54,8 +54,6 @@ layout:
 * **ABCUI** → 앱에서 공통적으로 사용하는 View Component 의 집합
 * **Common** → Util 기능들의 집합
 
-
-
 <div align="left"><figure><img src="../.gitbook/assets/image 1 (1).png" alt="" width="275"><figcaption><p>[SPM 모듈화]</p></figcaption></figure></div>
 
 ### **2. SNSLoginUseCase 구현 샘플**
@@ -123,8 +121,6 @@ public final class DefaultSNSLoginUseCase: SNSLoginUseCase {
 ```
 {% endcode %}
 
-
-
 ### 3. ABC Wallet 앱 내 Swap API 개발
 
 * Python, Redis, AWS (ECS)
@@ -140,14 +136,12 @@ public final class DefaultSNSLoginUseCase: SNSLoginUseCase {
 5. ERC20 권한 허용 Tx Data 조회
 6. 교환시 사용할 Tx Data 조회
 
-![](../.gitbook/assets/ScreenRecording_09-04-2025_10-20-17_1.gif)
+<div align="left"><img src="../.gitbook/assets/ScreenRecording_09-04-2025_10-20-17_1.gif" alt="앱내 Swap 서비스" width="240"></div>
 
 ### 4.사내 서비스 Waas (Wallet as a service) SDK 설계 및 구현
 
 * Swift 로 iOS 용을 설계 및 구현했고 이를 토대로 Android / Web 용 모듈을 동료들이 구현함.
-*   `waas-ios-sdk` Repository(private) 의 Readme 파일
-
-    <a href="waas-sdk.md" class="button secondary" data-icon="file-lines">WaaS SDK</a>
+* <a href="waas-sdk.md" class="button secondary" data-icon="file-lines">WaaS SDK</a> Readme for SDK
 
 ***
 
