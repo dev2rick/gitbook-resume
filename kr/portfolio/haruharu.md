@@ -96,7 +96,7 @@ public static func drawSegment(
 ```
 {% endcode %}
 
-<div><figure><img src=".gitbook/assets/2ScreenRecording_08-30-202510-03-07_1-ezgif.com-crop.gif" alt=""><figcaption><p>UIControl 을 활용하여 시간범위입력 Component 구현</p></figcaption></figure> <figure><img src=".gitbook/assets/image 1.png" alt=""><figcaption><p>Main 화면 View hierarchy</p></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/2ScreenRecording_08-30-202510-03-07_1-ezgif.com-crop.gif" alt="" width="375"><figcaption><p>UIControl 을 활용하여 시간범위입력 Component 구현</p></figcaption></figure> <figure><img src=".gitbook/assets/image 1.png" alt="" width="563"><figcaption><p>Main 화면 View hierarchy</p></figcaption></figure></div>
 
 ### **2. 기기의 특성에 맞는 UX 제공**
 
@@ -104,7 +104,7 @@ public static func drawSegment(
 * **iPad**: 리스트 + 원형 다이어그램 동시 제공(Split View) → 탐색성과 가독성 강화
 * 기기 특성에 맞춰 **차별화된 UX 설계**
 
-<div><figure><img src=".gitbook/assets/Simulator_Screenshot_-_iPhone_16_Pro_-_2025-09-04_at_12.18.42.png" alt="" width="563"><figcaption><p>iPhone 메인화면</p></figcaption></figure> <figure><img src=".gitbook/assets/Simulator_Screenshot_-_iPad_Pro_13-inch_(M4)_-_2025-09-04_at_12.19.37.png" alt=""><figcaption><p>iPad 메인화면 - SplitViewController 를 활용</p></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/Simulator_Screenshot_-_iPhone_16_Pro_-_2025-09-04_at_12.18.42.png" alt="" width="188"><figcaption><p>iPhone 메인화면</p></figcaption></figure> <figure><img src=".gitbook/assets/Simulator_Screenshot_-_iPad_Pro_13-inch_(M4)_-_2025-09-04_at_12.19.37.png" alt="" width="563"><figcaption><p>iPad 메인화면 - SplitViewController 를 활용</p></figcaption></figure></div>
 
 ### **3. iCloud 동기화 및 다중 기기 대응**
 
@@ -117,7 +117,7 @@ public static func drawSegment(
 * ~~WatchKit + ClockKit을 활용해 Apple Watch 앱 + 컴플리케이션 기능 구현~~
   * Watch Complication 도 WidgetKit 으로 통합하여 구현.
 
-<div align="left"><figure><img src=".gitbook/assets/image 2 (1).png" alt="" width="288"><figcaption><p>iOS App Widget</p></figcaption></figure> <figure><img src=".gitbook/assets/incoming-C3B708D0-6DDC-465C-B275-68340F82096A (2).png" alt="" width="281"><figcaption><p>애플워치 컴플리케이션</p></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image 2 (1).png" alt="" width="288"><figcaption><p>iOS App Widget</p></figcaption></figure> <figure><img src=".gitbook/assets/incoming-C3B708D0-6DDC-465C-B275-68340F82096A (2).png" alt="" width="187"><figcaption><p>애플워치 컴플리케이션</p></figcaption></figure></div>
 
 ### **5. 프리미엄 기능 잠금 (IAP)**
 
