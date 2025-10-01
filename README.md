@@ -1,11 +1,6 @@
-# Jihoon Lee - iOS Developer Resume
+# Rick - iOS Developer Resume
 
 iOS Developer resume built with GitBook, showcasing expertise in Swift, Clean Architecture, and modular design.
-
-## 📋 Structure
-
-- **Korean Version**: Main resume (`kr/`)
-- **English Version**: Coming soon (`en/`)
 
 ## 🏆 Key Achievements
 
@@ -33,7 +28,7 @@ iOS Developer resume built with GitBook, showcasing expertise in Swift, Clean Ar
 ## 🛠 Tech Stack
 
 - **Languages**: Swift (Advanced), Objective-C (Basic)
-- **iOS Frameworks**: SwiftUI, UIKit, Combine, Swift Concurrency, RxSwift
+- **iOS Frameworks**: SwiftUI, UIKit, Combine, Swift Concurrency
 - **Architecture**: Clean Architecture, MVVM, SPM modularization
 - **Backend**: Python, Spring Boot, REST API
 - **Tools**: Xcode, Git, Jira, AWS
@@ -43,6 +38,7 @@ iOS Developer resume built with GitBook, showcasing expertise in Swift, Clean Ar
 **[→ View Full Resume](https://resume.2rick.com)**
 
 Detailed portfolio including:
+
 - ABC Wallet: Clean Architecture & SPM implementation
 - Klip: Multi-chain integration
 - DayDay: Custom UI/UX with CoreGraphics
