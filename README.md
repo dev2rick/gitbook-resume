@@ -1,33 +1,49 @@
-# 이지훈 - iOS Developer 이력서
+# Jihoon Lee - iOS Developer Resume
 
-GitBook을 활용한 iOS 개발자 이지훈의 이력서입니다.
+iOS Developer resume built with GitBook, showcasing expertise in Swift, Clean Architecture, and modular design.
 
-## 📋 구성
+## 📋 Structure
 
-- **한국어 버전**: 메인 이력서 (`kr/`)
-- **영어 버전**: 번역 준비중 (`en/`)
+- **Korean Version**: Main resume (`kr/`)
+- **English Version**: Coming soon (`en/`)
 
-## 🏆 주요 성과
+## 🏆 Key Achievements
 
-- **[하루하루](https://apps.apple.com/kr/app/id1452035712)** 앱: 15만 다운로드, 평점 4.6, 유료앱 2위
-- **JUNCTION X Seoul 해커톤**: Track Winner (1위 수상)
-- **Clean Architecture & SPM**: 블록체인 지갑 앱 개발 및 모듈화
+- **[DayDay (하루하루)](https://apps.apple.com/kr/app/id1452035712)**: 150K downloads, 4.6 rating (5000+ reviews), #2 paid app, Apple Featured (Korea/China)
+- **ABC Wallet**: Led React Native → Native migration (4 months), Clean Architecture + SPM modularization
+- **Klip**: Expanded blockchain support from 4 to 12 networks by successfully porting ABC modules
+- **WaaS SDK**: Designed iOS SDK architecture, which became foundation for Android/Web implementations
+- **JUNCTION X Seoul Hackathon**: Track Winner (1st place)
 
-## 💼 경력
+## 💼 Experience
 
-- 2022.12 ~ 현재: 안랩블록체인컴퍼니 - ABC Wallet, Klip 개발
-- 2020.09 ~ 2022.06: Avanssion - 풀스택 개발
-- 2019.07 ~ 2020.07: 소프트어스 - 창업 (예비창업패키지)
-- 2017.08 ~ 2018.06: 스윗트래커 - iOS 개발
+| Period | Company | Role | Key Projects |
+|--------|---------|------|--------------|
+| 2022.12 ~ Present | AhnLab Blockchain Company | iOS Developer | ABC Wallet, Klip - Blockchain wallet apps<br/>• RN → Native conversion<br/>• Clean Architecture + SPM<br/>• 12 blockchain networks support |
+| 2020.09 ~ 2022.06 | Avanssion | Full-Stack Developer | MyBrands HR Platform (Tokyo)<br/>• Backend 60%, Frontend 20%, Mobile 20%<br/>• Global team collaboration |
+| 2019.07 ~ 2020.07 | SoftUs | Founder & Developer | AR-based location advertising platform<br/>• Pre-startup Package selected<br/>• iOS + Spring Boot development |
+| 2017.08 ~ 2018.06 | Sweettracker | iOS Developer | Smart Parcel app (MAU 200K, DAU 50K)<br/>• Objective-C → Swift migration<br/>• Design 2.0 overhaul |
 
-## 🛠 기술 스택
+## 📱 Side Projects
 
-- **Swift**: Advanced
-- **SwiftUI / Swift Concurrency / Combine / RxSwift**: Intermediate to Advanced
-- **Objective-C**: Basic
+| Period | Project | Impact |
+|--------|---------|--------|
+| 2019.02 ~ Present | [DayDay](https://apps.apple.com/kr/app/id1452035712) | • 150K downloads, 4.6 rating<br/>• #2 paid app, 5000+ reviews<br/>• Apple Featured (Korea/China)<br/>• CoreGraphics/CoreAnimation custom UI<br/>• CloudKit, WidgetKit, WatchKit integration |
 
-## 📖 이력서 보기
+## 🛠 Tech Stack
 
-상세한 이력서는 다음 링크에서 확인하실 수 있습니다:
+- **Languages**: Swift (Advanced), Objective-C (Basic)
+- **iOS Frameworks**: SwiftUI, UIKit, Combine, Swift Concurrency, RxSwift
+- **Architecture**: Clean Architecture, MVVM, SPM modularization
+- **Backend**: Python, Spring Boot, REST API
+- **Tools**: Xcode, Git, Jira, AWS
 
-- [한국어 이력서](https://resume.2rick.com)
+## 📖 View Resume
+
+**[→ View Full Resume](https://resume.2rick.com)**
+
+Detailed portfolio including:
+- ABC Wallet: Clean Architecture & SPM implementation
+- Klip: Multi-chain integration
+- DayDay: Custom UI/UX with CoreGraphics
+- WaaS SDK: API design & architecture
