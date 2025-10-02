@@ -15,7 +15,7 @@ layout:
     visible: true
 ---
 
-# \[ABC Wallet] 설계 / 모듈화
+# \[ABC Wallet] 아키텍쳐 + 모듈화
 
 <figure><img src="../.gitbook/assets/21547104-bf8b-431a-ba79-7a9ba97ebf00.png" alt=""><figcaption></figcaption></figure>
 
@@ -28,6 +28,14 @@ layout:
 * **팀 구성**: 기획자 1명, 디자이너 1명, iOS 1명, And 1명, Server 1명, QA 1명
 * **출시일**: 2024년 5월
 * **앱스토어 링크**: [https://apps.apple.com/kr/app/id1642837445](https://apps.apple.com/kr/app/id1642837445)
+
+***
+
+## **🧩 프로젝트 소개**
+
+'ABCWallet'은 기존 React Native 기반 앱을 네이티브로 전환하며 안정성과 성능을 크게 개선한 프로젝트입니다. iOS와 Android 개발자 간 협업으로 클린 아키텍처 기반 코드베이스를 구축해 확장성과 테스트 용이성을 확보했습니다.&#x20;
+
+Swift Package Manager를 활용해 모듈화를 진행하며 유지보수 효율을 높였고, 다중 블록체인 지원 · Swap · 스테이킹 · NFT 전송 등 핵심 기능을 안정적으로 운영하며 다양한 사용자 환경에 대응할 수 있는 기반을 마련했습니다.
 
 ***
 

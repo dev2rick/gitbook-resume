@@ -15,7 +15,7 @@ layout:
     visible: true
 ---
 
-# \[Klip] ABC 모듈 성공적으로 적용
+# \[Klip] 지원 네트워크 3배 확대
 
 <figure><img src=".gitbook/assets/3ef8e65c-4206-4cb5-82f6-3e1b0e3094ff.png" alt=""><figcaption></figcaption></figure>
 
@@ -27,6 +27,12 @@ layout:
 * **프로젝트 참여 인원**: iOS 개발 2인 / Android 개발 2인
 * **역할**: iOS 앱 개발, 멀티체인 (Bitcoin, Solana, Tron, Arbitrum 등…) 지원
 * **앱스토어 링크**: [https://apps.apple.com/kr/app/id1627665524](https://apps.apple.com/kr/app/id1627665524)
+
+***
+
+## **🧩 프로젝트 소개**
+
+'ABCWallet'에서 구축한 모듈을 'Klip' 앱에 이식하며 블록체인 지원 범위를 기존 4개에서 12개로 확장했습니다. Swift Package Manager 기반 모듈화와 클린 아키텍처를 적용해 코드 변경을 최소화하면서도 안정성과 재사용성을 확보했습니다. 이를 통해 다양한 네트워크를 유연하게 통합할 수 있었고, 실제 서비스 운영에서 확장 가능한 아키텍처의 효과를 입증했습니다.
 
 ***
 
