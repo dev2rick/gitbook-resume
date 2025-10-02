@@ -1,48 +1,53 @@
 ---
-description: iOS Developer
+layout:
+  width: default
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
-# 이력서
+# 프로덕트 엔지니어
 
-## 👤 인적사항
+<figure><picture><source srcset=".gitbook/assets/title_dark.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/title_light.png" alt=""></picture><figcaption></figcaption></figure>
 
-**이름** 이지훈
 
-**생년월일** 1991.08.06
 
-**병역** 해병 / 병장 / 만기전역
+> #### 클라이언트 소프트웨어는 사용자와 가장 가까운 제품입니다. 특히 모바일은 시각·청각·촉각 등 오감을 통해 직접 경험되므로, <mark style="background-color:red;">사용자 경험의 중요</mark>성이 더욱 강조됩니다.
 
-## 📚 학력
 
-| 기간                 | 학교          | 전공                                   |
-| ------------------ | ----------- | ------------------------------------ |
-| 2010.03 \~ 2016.08 | 한국외국어대학교 졸업 | <p>디지털정보공학과 (주전공)<br>국제경영학 (부전공)</p> |
-| 2007.03 \~ 2010.02 | 수리고등학교 졸업   | -                                    |
 
-## 📖 자격증 & 교육
+{% columns %}
+{% column width="33.33333333333333%" %}
+<div align="left" data-with-frame="true"><figure><img src=".gitbook/assets/D8B509D5-7EF0-4C30-990C-34C0DD8B7803_1_105_c.jpeg" alt=""><figcaption></figcaption></figure></div>
+{% endcolumn %}
 
-| 기간                       | 내용                         | 기관       |
-| ------------------------ | -------------------------- | -------- |
-| 2016.12 \~ 2017.03       | Java Web & Mobile 개발자 양성과정 | 비트아카데미   |
-| 2016.07.15               | 정보처리기사                     | 한국산업인력공단 |
-| 2016.06.13 \~ 2016.06.24 | iPhone Application 프로그래밍   | SK techX |
+{% column width="66.66666666666667%" %}
+### 📦 **모듈화 · 아키텍처 개선으로 확장성과 안정성 확보,** 모듈 이식으로 지원 네트워크 <mark style="color:green;">3배</mark> 확대.
 
-## 🏆 수상
+### 🥇 1인 개발로 <mark style="color:green;">앱스토어 2위</mark>, <mark style="color:green;">15만+ 다운로드</mark>를 기록한 경험.
 
-| 기간                       | 내용                   | 수상                |
-| ------------------------ | -------------------- | ----------------- |
-| 2020.10.09 \~ 2020.10.11 | JUNCTION X Seoul 해커톤 | Track Winner (1위) |
+### 🎭 제품을 위해 iOS를 넘어 서버 · React-Native까지 경험한 엔지니어
+{% endcolumn %}
+{% endcolumns %}
 
-## 🛠 주요기술
 
-1. Swift : `Advanced`
-2. SwiftUI / Swift Concurrency / Combine / RxSwift: `Intermediate to Advanced`
-3. Objective-C: `Basic`
 
-## 👩‍💻 경력사항
 
-<table><thead><tr><th width="170">기간</th><th width="160">회사</th><th>주요 업무</th></tr></thead><tbody><tr><td>2022.12 ~ 현재<br><sub>2025.8 육아휴직</sub></td><td>안랩블록체인컴퍼니<br><sub>iOS Developer</sub></td><td>가상자산 지갑 개발 (ABC Wallet, Klip)<br>• RN → Native 전환 (4개월)<br>• Clean Architecture + SPM 모듈화<br>• 12개 블록체인 지원</td></tr><tr><td>2020.09 ~ 2022.06</td><td>Avanssion<br><sub>Full-Stack Developer</sub></td><td>MyBrands 플랫폼 개발<br>• Backend 60%, Frontend 20%, Mobile 20%<br>• 글로벌 팀 협업</td></tr><tr><td>2019.07 ~ 2020.07</td><td>소프트어스<br><sub>Founder &#x26; Developer</sub></td><td>예비창업패키지 선정<br>• 위치기반 AR 광고 플랫폼 개발<br>• iOS App + Spring Boot 서버</td></tr><tr><td>2017.08 ~ 2018.06</td><td>스윗트래커<br><sub>iOS Developer</sub></td><td>스마트택배 앱 개발/운영<br>• Objective-C → Swift 전환<br>• MAU 20만, DAU 5만</td></tr></tbody></table>
 
-## 📱사이드 프로젝트
+## Contact
 
-<table><thead><tr><th width="170">기간</th><th width="160">프로젝트</th><th>성과</th></tr></thead><tbody><tr><td>2019.02 ~ 현재</td><td><a href="https://apps.apple.com/kr/app/id1452035712">하루하루</a></td><td>• 유료앱 2위, 15만+ 다운로드<br>•  평점 4.6, 리뷰 5,000+<br>• AppStore 피처드 (한국/중국)</td></tr></tbody></table>
+✉️ [dev@2rick.com](mailto://dev@2rick.com)
+
+<figure><img src=".gitbook/assets/skills.png" alt=""><figcaption></figcaption></figure>
+
+
+
