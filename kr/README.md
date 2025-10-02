@@ -43,7 +43,7 @@ layout:
 
 ## Contact
 
-#### e️-mail: [dev@2rick.com](mailto://dev@2rick.com)
+#### e️-mail: [dev@2rick.com](mailto:dev@2rick.com)
 
 ####
 
