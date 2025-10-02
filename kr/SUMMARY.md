@@ -1,8 +1,8 @@
 # Table of contents
 
 * [프로덕트 엔지니어](README.md)
-* [이력서](<README (1).md>)
-* [경력기술서](experience.md)
+* [이력서](cv.md)
+* [경력기술서](description.md)
 
 ## 포트폴리오 <a href="#portfolio" id="portfolio"></a>
 
