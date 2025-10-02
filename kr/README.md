@@ -29,7 +29,7 @@ layout:
 {% column width="58.333333333333336%" valign="middle" %}
 ### 📦 **모듈화 · 아키텍처 개선으로 확장성과 안정성 확보,** 모듈 이식으로 지원 네트워크 <mark style="color:red;">3배</mark> 확대.
 
-### 🥇 1인 개발로 **앱스토어 2위**<mark style="color:red;">**,**</mark>**&#x20;15만+ 다운로드**를 기록한 경험.
+### 🥇 1인 개발로 <mark style="color:red;">**앱스토어 2위**</mark>**,&#x20;**<mark style="color:red;">**15만+ 다운로드**</mark>를 기록한 경험.
 
 ### 🎭 제품을 위해 iOS를 넘어 서버 · React-Native까지 경험한 엔지니어
 {% endcolumn %}
@@ -43,9 +43,19 @@ layout:
 
 
 
+
+
+
+
 ## 더 알아보기
 
 <table data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><a href="portfolio/klip.md">klip.md</a></td><td><a href=".gitbook/assets/246x0w.jpg">246x0w.jpg</a></td></tr><tr><td><a href="portfolio/abc-wallet/">abc-wallet</a></td><td><a href=".gitbook/assets/246x0w-2.jpg">246x0w-2.jpg</a></td></tr><tr><td><a href="portfolio/haruharu.md">haruharu.md</a></td><td><a href=".gitbook/assets/246x0w-3.jpg">246x0w-3.jpg</a></td></tr><tr><td><a href="portfolio/smartparcel.md">smartparcel.md</a></td><td><a href=".gitbook/assets/246x0w-4.jpg">246x0w-4.jpg</a></td></tr></tbody></table>
+
+
+
+
+
+
 
 
 
@@ -55,7 +65,15 @@ layout:
 
 
 
+
+
+
+
+
+
 <figure><img src=".gitbook/assets/skills.png" alt=""><figcaption></figcaption></figure>
+
+
 
 
 
