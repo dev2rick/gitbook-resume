@@ -140,8 +140,8 @@ public final class DefaultSNSLoginUseCase: SNSLoginUseCase {
 
 ### 4.사내 서비스 Waas (Wallet as a service) SDK 설계 및 구현
 
-* Swift 로 iOS 용을 설계 및 구현했고 이를 토대로 Android / Web 용 모듈을 동료들이 구현함.
-* <a href="waas-sdk.md" class="button secondary" data-icon="file-lines">WaaS SDK</a> Readme for SDK
+* Swift 로 iOS 용을 설계 및 구현했고 이를 토대로 Android / Web 용 모듈을 동료들이 구현.
+* [Readme WaaS SDK](waas-sdk.md)
 
 ***
 
