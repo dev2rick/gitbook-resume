@@ -45,7 +45,7 @@ layout:
 
 {% columns %}
 {% column width="8.333333333333332%" valign="middle" %}
-<figure><img src=".gitbook/assets/246x0w.jpg" alt="" width="62"><figcaption></figcaption></figure>
+<div align="left"><figure><img src=".gitbook/assets/246x0w.jpg" alt="" width="62"><figcaption></figcaption></figure></div>
 {% endcolumn %}
 
 {% column width="41.66666666666667%" valign="middle" %}
@@ -53,7 +53,7 @@ layout:
 {% endcolumn %}
 
 {% column width="8.333333333333337%" %}
-<figure><img src=".gitbook/assets/246x0w-2.jpg" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src=".gitbook/assets/246x0w-2.jpg" alt="" width="62"><figcaption></figcaption></figure></div>
 {% endcolumn %}
 
 {% column width="41.66666666666667%" %}
@@ -63,7 +63,7 @@ layout:
 
 {% columns %}
 {% column width="8.333333333333332%" valign="middle" %}
-<figure><img src=".gitbook/assets/246x0w-3.jpg" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src=".gitbook/assets/246x0w-3.jpg" alt="" width="62"><figcaption></figcaption></figure></div>
 {% endcolumn %}
 
 {% column width="41.66666666666667%" valign="middle" %}
@@ -71,7 +71,7 @@ layout:
 {% endcolumn %}
 
 {% column width="8.333333333333337%" %}
-<figure><img src=".gitbook/assets/246x0w-4.jpg" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src=".gitbook/assets/246x0w-4.jpg" alt="" width="62"><figcaption></figcaption></figure></div>
 {% endcolumn %}
 
 {% column width="41.66666666666667%" %}
