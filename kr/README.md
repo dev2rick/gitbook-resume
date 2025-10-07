@@ -39,23 +39,43 @@ layout:
 {% endcolumn %}
 {% endcolumns %}
 
-
-
-
-
-
-
-
-
 ## 더 알아보기
 
-<table data-column-title-hidden data-view="cards" data-full-width="false"><thead><tr><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><a href="portfolio/klip.md">klip.md</a></td><td><a href=".gitbook/assets/246x0w.jpg">246x0w.jpg</a></td></tr><tr><td><a href="portfolio/abc-wallet/">abc-wallet</a></td><td><a href=".gitbook/assets/246x0w-2.jpg">246x0w-2.jpg</a></td></tr><tr><td><a href="portfolio/haruharu.md">haruharu.md</a></td><td><a href=".gitbook/assets/246x0w-3.jpg">246x0w-3.jpg</a></td></tr><tr><td><a href="portfolio/smartparcel.md">smartparcel.md</a></td><td><a href=".gitbook/assets/246x0w-4.jpg">246x0w-4.jpg</a></td></tr></tbody></table>
+{% columns %}
+{% column width="8.333333333333332%" %}
+<figure><img src=".gitbook/assets/246x0w.jpg" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
 
+{% column width="41.66666666666667%" %}
+[klip.md](portfolio/klip.md "mention")
+{% endcolumn %}
 
+{% column width="8.333333333333337%" %}
+<figure><img src=".gitbook/assets/246x0w-2.jpg" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
 
+{% column width="41.66666666666667%" %}
+[abc-wallet](portfolio/abc-wallet/ "mention")
+{% endcolumn %}
+{% endcolumns %}
 
+{% columns %}
+{% column width="8.333333333333332%" %}
+<figure><img src=".gitbook/assets/246x0w-3.jpg" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
 
+{% column width="41.66666666666667%" %}
+[haruharu.md](portfolio/haruharu.md "mention")
+{% endcolumn %}
 
+{% column width="8.333333333333337%" %}
+<figure><img src=".gitbook/assets/246x0w-4.jpg" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column width="41.66666666666667%" %}
+[smartparcel.md](portfolio/smartparcel.md "mention")
+{% endcolumn %}
+{% endcolumns %}
 
 
 
@@ -63,13 +83,7 @@ layout:
 
 ✉️ Email: [dev@2rick.com](mailto:dev@2rick.com)
 
-
-
-
-
-
-
-
+***
 
 <figure><img src=".gitbook/assets/skills.png" alt=""><figcaption></figcaption></figure>
 
