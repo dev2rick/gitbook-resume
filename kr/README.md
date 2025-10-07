@@ -27,11 +27,11 @@ layout:
 
 {% columns %}
 {% column width="58.333333333333336%" valign="middle" %}
-### 📦 **모듈화 · 아키텍처 개선으로 확장성과 안정성 확보,** 모듈 이식으로 지원 네트워크 <mark style="color:red;">3배</mark> 확대.
+### 📦 **모듈화 · 아키텍처 개선으로 확장성과 안정성 확보,** 모듈 이식으로 지원 블록체인 네트워크 <mark style="color:red;">**3배**</mark> 확대.
 
-### 🥇 1인 개발로 <mark style="color:red;">**앱스토어 2위**</mark>**,&#x20;**<mark style="color:red;">**15만+ 다운로드**</mark>를 기록한 경험.
+### 🥇 1인 개발자로 <mark style="color:red;">**앱스토어 2위**</mark>**,&#x20;**<mark style="color:red;">**15만+ 다운로드**</mark>를 기록한 경험.
 
-### 🎭 제품을 위해 iOS를 넘어 서버 · React-Native까지 경험한 엔지니어
+### 🎭 제품을 위해 iOS를 넘어 <mark style="color:red;">서버 · React-Native</mark>까지 경험한 엔지니어
 {% endcolumn %}
 
 {% column width="41.666666666666664%" valign="middle" %}
