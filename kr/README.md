@@ -2,7 +2,7 @@
 layout:
   width: default
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
@@ -15,7 +15,7 @@ layout:
     visible: true
 ---
 
-# 프로덕트 엔지니어
+# iOS App Developer
 
 <figure><picture><source srcset=".gitbook/assets/title_dark.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/title_light.png" alt=""></picture><figcaption></figcaption></figure>
 
