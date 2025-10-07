@@ -39,14 +39,16 @@ layout:
 {% endcolumn %}
 {% endcolumns %}
 
+
+
 ## 더 알아보기
 
 {% columns %}
-{% column width="8.333333333333332%" %}
-<figure><img src=".gitbook/assets/246x0w.jpg" alt=""><figcaption></figcaption></figure>
+{% column width="8.333333333333332%" valign="middle" %}
+<figure><img src=".gitbook/assets/246x0w.jpg" alt="" width="62"><figcaption></figcaption></figure>
 {% endcolumn %}
 
-{% column width="41.66666666666667%" %}
+{% column width="41.66666666666667%" valign="middle" %}
 [klip.md](portfolio/klip.md "mention")
 {% endcolumn %}
 
@@ -60,11 +62,11 @@ layout:
 {% endcolumns %}
 
 {% columns %}
-{% column width="8.333333333333332%" %}
+{% column width="8.333333333333332%" valign="middle" %}
 <figure><img src=".gitbook/assets/246x0w-3.jpg" alt=""><figcaption></figcaption></figure>
 {% endcolumn %}
 
-{% column width="41.66666666666667%" %}
+{% column width="41.66666666666667%" valign="middle" %}
 [haruharu.md](portfolio/haruharu.md "mention")
 {% endcolumn %}
 
@@ -86,8 +88,3 @@ layout:
 ***
 
 <figure><img src=".gitbook/assets/skills.png" alt=""><figcaption></figcaption></figure>
-
-
-
-
-
