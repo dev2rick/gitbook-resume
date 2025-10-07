@@ -49,7 +49,7 @@ layout:
 {% endcolumn %}
 
 {% column width="41.66666666666667%" valign="middle" %}
-[klip.md](portfolio/klip.md "mention")
+[\[Klip\] 지원네트워크 3배 확대](https://resume.2rick.com/portfolio/klip)
 {% endcolumn %}
 
 {% column width="8.333333333333337%" %}
@@ -57,7 +57,7 @@ layout:
 {% endcolumn %}
 
 {% column width="41.66666666666667%" %}
-[abc-wallet](portfolio/abc-wallet/ "mention")
+[\[ABCWallet\] 아키텍쳐 + 모듈화](https://resume.2rick.com/portfolio/abc-wallet)
 {% endcolumn %}
 {% endcolumns %}
 
@@ -67,7 +67,7 @@ layout:
 {% endcolumn %}
 
 {% column width="41.66666666666667%" valign="middle" %}
-[haruharu.md](portfolio/haruharu.md "mention")
+[\[하루하루\] 앱스토어 2위](https://resume.2rick.com/portfolio/haruharu)
 {% endcolumn %}
 
 {% column width="8.333333333333337%" %}
@@ -75,7 +75,7 @@ layout:
 {% endcolumn %}
 
 {% column width="41.66666666666667%" %}
-[smartparcel.md](portfolio/smartparcel.md "mention")
+[\[스마트택배\] Obj-C → Swift](https://resume.2rick.com/portfolio/smartparcel)
 {% endcolumn %}
 {% endcolumns %}
 
