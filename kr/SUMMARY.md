@@ -1,7 +1,7 @@
 # Table of contents
 
-* [iOS App Developer](README.md)
-* [이력서](cv.md)
+* [소개](README.md)
+* [이력서](resume.md)
 * [경력기술서](description.md)
 
 ## 포트폴리오 <a href="#portfolio" id="portfolio"></a>
