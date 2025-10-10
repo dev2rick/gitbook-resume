@@ -39,17 +39,18 @@ description: iOS Developer
 2. SwiftUI / Swift Concurrency / Combine / RxSwift: `Intermediate to Advanced`
 3. Objective-C: `Basic`
 
-## 👩‍💻 경력사항
+## 👩‍💻 경력사항 (7년차)
 
-| 기간                                              | 회사                                                  | 주요 업무                                                                                                                        |
-| ----------------------------------------------- | --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| <p>2022.12 ~ 현재<br><sup>2025.8 ~ 육아휴직</sup></p> | <p>안랩블록체인컴퍼니<br><sub>iOS Developer</sub></p>        | <p>가상자산 지갑 개발 (ABC Wallet, Klip)<br>• RN → Native 전환 (4개월)<br>• Clean Architecture + SPM 모듈화<br>• Wallet SDK, Swap 서버 개발</p> |
-| 2020.09 \~ 2022.06                              | <p>Avanssion<br><sub>Full-Stack Developer</sub></p> | <p>MyBrands 플랫폼 개발<br>• Backend 60%, Frontend 20%, Mobile 20%<br>• 글로벌 팀 협업</p>                                              |
-| 2019.07 \~ 2020.07                              | <p>소프트어스<br><sub>Founder &#x26; Developer</sub></p> | <p>예비창업패키지 선정<br>• 위치기반 AR 광고 플랫폼 개발<br>• iOS App + Spring Boot 서버</p>                                                       |
-| 2017.08 \~ 2018.06                              | <p>스윗트래커<br><sub>iOS Developer</sub></p>            | <p>스마트택배 앱 개발/운영<br>• Objective-C → Swift 전환<br>• MAU 20만, DAU 5만</p>                                                        |
+| 기간                                         | 회사                                                  | 주요 업무                                                                                                                        |
+| ------------------------------------------ | --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| <p>2022.12 ~ 2025.8 (육아휴직) </p><p>~ 현재</p> | <p>안랩블록체인컴퍼니<br><sub>iOS Developer</sub></p>        | <p>가상자산 지갑 개발 (ABC Wallet, Klip)<br>• RN → Native 전환 (4개월)<br>• Clean Architecture + SPM 모듈화<br>• Wallet SDK, Swap 서버 개발</p> |
+| 2020.09 \~ 2022.06                         | <p>Avanssion<br><sub>Full-Stack Developer</sub></p> | <p>MyBrands 플랫폼 개발<br>• Backend 60%, Frontend 20%, Mobile 20%<br>• 글로벌 팀 협업</p>                                              |
+| 2019.07 \~ 2020.07                         | <p>소프트어스<br><sub>Founder &#x26; Developer</sub></p> | <p>예비창업패키지 선정<br>• 위치기반 AR 광고 플랫폼 개발<br>• iOS App + Spring Boot 서버</p>                                                       |
+| 2017.08 \~ 2018.06                         | <p>스윗트래커<br><sub>iOS Developer</sub></p>            | <p>스마트택배 앱 개발/운영<br>• Objective-C → Swift 전환<br>• MAU 20만, DAU 5만</p>                                                        |
 
 ## 📱사이드 프로젝트
 
 | 기간            | 프로젝트                                               | 성과                                                                           |
 | ------------- | -------------------------------------------------- | ---------------------------------------------------------------------------- |
 | 2019.02 \~ 현재 | [하루하루](https://apps.apple.com/kr/app/id1452035712) | <p>• 유료앱 2위, 15만+ 다운로드<br>•  평점 4.6, 리뷰 5,000+<br>• AppStore 피처드 (한국/중국)</p> |
+
