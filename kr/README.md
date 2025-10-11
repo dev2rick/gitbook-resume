@@ -19,11 +19,11 @@ layout:
 
 # 소개
 
-{% if space.vars.lang == 'ko' %}
+{% if space.vars.lang === 'ko' %}
 <figure><picture><source srcset=".gitbook/assets/title_dark.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/title_light.png" alt=""></picture><figcaption></figcaption></figure>
 {% endif %}
 
-{% if space.vars.lang != 'ko' %}
+{% if space.vars.lang === 'en' %}
 <figure><picture><source srcset=".gitbook/assets/headline_dark.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/headline_light.png" alt=""></picture><figcaption></figcaption></figure>
 {% endif %}
 
@@ -48,37 +48,37 @@ layout:
 ## 더 알아보기
 
 {% columns %}
-{% column valign="middle" %}
-<div align="left"><figure><img src=".gitbook/assets/246x0w.jpg" alt="" width="62"><figcaption></figcaption></figure></div>
+{% column width="8.333333333333332%" valign="middle" %}
+<div align="center"><figure><img src=".gitbook/assets/246x0w.jpg" alt="" width="62"><figcaption></figcaption></figure></div>
 {% endcolumn %}
 
-{% column valign="middle" %}
+{% column width="41.66666666666667%" valign="middle" %}
 [\[Klip\] 지원네트워크 3배 확대](https://resume.2rick.com/portfolio/klip)
 {% endcolumn %}
 
-{% column %}
-<div align="left"><figure><img src=".gitbook/assets/246x0w-2.jpg" alt="" width="62"><figcaption></figcaption></figure></div>
+{% column width="8.333333333333337%" %}
+<div align="center"><figure><img src=".gitbook/assets/246x0w-2.jpg" alt="" width="62"><figcaption></figcaption></figure></div>
 {% endcolumn %}
 
-{% column %}
+{% column width="41.666666666666664%" %}
 [\[ABCWallet\] 아키텍쳐 + 모듈화](https://resume.2rick.com/portfolio/abc-wallet)
 {% endcolumn %}
 {% endcolumns %}
 
 {% columns %}
-{% column valign="middle" %}
-<div align="left"><figure><img src=".gitbook/assets/246x0w-3.jpg" alt="" width="62"><figcaption></figcaption></figure></div>
+{% column width="8.333333333333332%" valign="middle" %}
+<div align="center"><figure><img src=".gitbook/assets/246x0w-3.jpg" alt="" width="62"><figcaption></figcaption></figure></div>
 {% endcolumn %}
 
-{% column valign="middle" %}
+{% column width="41.66666666666667%" valign="middle" %}
 [\[하루하루\] 앱스토어 2위](https://resume.2rick.com/portfolio/haruharu)
 {% endcolumn %}
 
-{% column %}
-<div align="left"><figure><img src=".gitbook/assets/246x0w-4.jpg" alt="" width="62"><figcaption></figcaption></figure></div>
+{% column width="8.333333333333337%" %}
+<div align="center"><figure><img src=".gitbook/assets/246x0w-4.jpg" alt="" width="62"><figcaption></figcaption></figure></div>
 {% endcolumn %}
 
-{% column %}
+{% column width="41.666666666666664%" %}
 [\[스마트택배\] Obj-C → Swift](https://resume.2rick.com/portfolio/smartparcel)
 {% endcolumn %}
 {% endcolumns %}
