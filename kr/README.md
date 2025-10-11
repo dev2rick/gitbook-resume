@@ -19,7 +19,7 @@ layout:
 
 # 소개
 
-{% if page.vars.lang == "ko" %}
+{% if page.path in '/en/' %}
 <figure><picture><source srcset=".gitbook/assets/title_dark.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/title_light.png" alt=""></picture><figcaption></figcaption></figure>
 {% endif %}
 
