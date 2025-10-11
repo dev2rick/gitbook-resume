@@ -1,8 +1,8 @@
 # Table of contents
 
 * ```yaml
-  type: builtin:translation
   props: {}
+  type: builtin:translation
   dependencies:
     translation:
       ref:
