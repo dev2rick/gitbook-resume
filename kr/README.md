@@ -53,7 +53,7 @@ layout:
 {% endcolumn %}
 
 {% column width="41.66666666666667%" valign="middle" %}
-[\[Klip\] 지원네트워크 3배 확대](https://resume.2rick.com/portfolio/klip)
+[\[Klip\] 지원 네트워크 3배 확대](https://resume.2rick.com/portfolio/klip)
 {% endcolumn %}
 
 {% column width="8.333333333333337%" %}
@@ -71,7 +71,7 @@ layout:
 {% endcolumn %}
 
 {% column width="41.66666666666667%" valign="middle" %}
-[\[하루하루\] 앱스토어 2위](https://resume.2rick.com/portfolio/haruharu)
+[\[하루하루\] 생산성 유료 1위](https://resume.2rick.com/portfolio/haruharu)
 {% endcolumn %}
 
 {% column width="8.333333333333337%" %}
