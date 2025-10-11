@@ -1,4 +1,6 @@
 ---
+vars:
+  lang: ko
 layout:
   width: default
   title:
@@ -15,11 +17,11 @@ layout:
     visible: true
 ---
 
-# iOS App Developer
+# 소개
 
+{% if page.vars.lang == "ko" %}
 <figure><picture><source srcset=".gitbook/assets/title_dark.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/title_light.png" alt=""></picture><figcaption></figcaption></figure>
-
-
+{% endif %}
 
 {% columns %}
 {% column width="58.333333333333336%" valign="middle" %}
@@ -34,8 +36,6 @@ layout:
 <div align="left" data-with-frame="true"><figure><img src=".gitbook/assets/D8B509D5-7EF0-4C30-990C-34C0DD8B7803_1_105_c.jpeg" alt=""><figcaption></figcaption></figure></div>
 {% endcolumn %}
 {% endcolumns %}
-
-
 
 ## 더 알아보기
 
