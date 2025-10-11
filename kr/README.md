@@ -19,10 +19,12 @@ layout:
 
 # 소개
 
-{% if page.path in '*/en' %}
-<figure><picture><source srcset=".gitbook/assets/headline_dark.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/headline_light.png" alt=""></picture><figcaption></figcaption></figure>
-
+{% if space.vars.lang == 'ko' %}
 <figure><picture><source srcset=".gitbook/assets/title_dark.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/title_light.png" alt=""></picture><figcaption></figcaption></figure>
+{% endif %}
+
+{% if space.vars.lang !== 'ko' %}
+<figure><picture><source srcset=".gitbook/assets/headline_dark.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/headline_light.png" alt=""></picture><figcaption></figcaption></figure>
 {% endif %}
 
 {% columns %}
