@@ -15,7 +15,7 @@ layout:
     visible: true
 ---
 
-# \[하루하루] 앱스토어 2위
+# \[하루하루] 생산성 유료 1위
 
 <figure><img src=".gitbook/assets/51c4ef0f-a5b5-414f-889b-616dddc27aa4.png" alt=""><figcaption></figcaption></figure>
 
@@ -67,12 +67,12 @@ SwiftUI, CoreData, CloudKit, WidgetKit, WatchKit 등 iOS의 최신 기술을 적
 {% code title="" %}
 ```swift
 public static func drawSegment(
-		withArc arc: Arc,
+    withArc arc: Arc,
     lineWidth: CGFloat = 0,
     mode: CGPathDrawingMode = .fillStroke,
     inContext context: CGContext
 ) {
-		let circle = arc.circle
+    let circle = arc.circle
     let origin = circle.origin
         
     UIGraphicsPushContext(context)
@@ -81,7 +81,7 @@ public static func drawSegment(
     context.setLineWidth(lineWidth)
     context.move(to: origin)
     context.addArc(
-				center: origin,
+        center: origin,
         radius: circle.radius,
         startAngle: arc.startAngle,
         endAngle: arc.endAngle,
