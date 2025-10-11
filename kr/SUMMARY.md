@@ -17,3 +17,4 @@
 
 * [GitHub](https://github.com/dev2rick)
 * [LinkedIn](https://www.linkedin.com/in/dev2rick)
+* [dev@2rick.com](mailto:dev@2rick.com)
