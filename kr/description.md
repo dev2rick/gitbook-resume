@@ -19,7 +19,7 @@ layout:
 
 ### [ABC (AhnLab Blockchain Company)](https://ahnlabblockchain.company)
 
-_iOS App Developers – (2022년 12월 \~ )_
+_**iOS App Developer** / 경기도 성남 – (2022년 12월 \~ )_
 
 ‘[ABC Wallet](https://apps.apple.com/kr/app/id1642837445)’ 앱은 초기에 외주사를 통해 **React Native 기반의 하이브리드 앱**으로 개발되었으며, 저는 Android 개발자와 함께 약 1년간 해당 앱을 유지보수했습니다. 이 경험을 통해 하이브리드 앱의 구조적 장점과 한계를 모두 체감할 수 있었고, 이후 앱의 성능과 확장성을 높이기 위해 Native 전환을 주도했습니다. 약 4개월 만에 기존 기능은 물론 Swap, Aptos 네트워크 등 신규 기능을 포함한 iOS 앱을 완성해 출시하였습니다.
 
@@ -31,6 +31,8 @@ _iOS App Developers – (2022년 12월 \~ )_
 
 ### [하루하루 (DayDay) / 15만 다운로드, 평점 4.6 & 5000개 리뷰](https://apps.apple.com/kr/app/id1452035712)
 
+_**1인 개발** / iOS, iPadOS, watchOS Developer  – (2019년 2월 \~ )_
+
 ‘하루하루’ 앱은 **CoreGraphics와 CoreAnimation을 활용**해 UIView에 직접 선과 면을 그리는 데서 시작된 프로젝트로, 독창적인 UI/UX를 제공하는 시간 계획표 애플리케이션입니다. 특히 방학시간표를 모티브로한 원형 시간표는 한국 사용자를 대상으로 한 차별화된 기능으로 큰 인기를 얻었습니다.
 
 출시 이후에도 CoreData, WidgetKit, WatchKit, StoreKit, CloudKit 등의 Framework 를 추가적으로 사용하였고, SiriKit 과 CoreML 의 활용방안을 검토하며 **사용자 경험을 강화하고자 노력**하였습니다. **이 앱은 국내 생산성 카테고리 유료 앱 1위, 유료 앱 전체 순위 Top 2를 기록했으며, 누적 다운로드 15만 건을 돌파했습니다. 또한, 5000개 이상의 리뷰에서 평균 평점 4.6점을 유지**하며 높은 사용자 만족도를 증명했습니다.
@@ -39,7 +41,7 @@ _iOS App Developers – (2022년 12월 \~ )_
 
 ### Avanssion
 
-_**Full-Stack Dev / Tokyo** – (2020년 9월 - 2022년 6월)_
+_**Full-Stack Dev /** 도쿄 (Remote) – (2020년 9월 - 2022년 6월)_
 
 Avanssion은 일본 도쿄를 본사를 두고 있는 IT기업으로 WMH(World Mode Holdings)와 파트너쉽을 맺고 MyBrands라는 일본, 싱가폴 패션HR 플랫폼을 개발하는 회사입니다.
 
@@ -51,7 +53,7 @@ Avanssion은 개발자 역량을 위하여 **개발자 전원이 풀스택으로
 
 ### SoftUs - 창업
 
-_**iOS & Backend / Korea** (2019년 7월 - 2020년 7월)_
+_**iOS & Backend /** 서울 (2019년 7월 - 2020년 7월)_
 
 창업진흥원 주관 ‘예비창업패키지’ 프로그램에 선발되어 창업에 도전했습니다. 창업 아이템은 ‘**보물섬: 위치기반 AR광고 플랫폼**’ 으로 광고타겟 상점근처에서 앱을 열었을 때 AR광고가 노출되는 서비스입니다. 예를들어 점심밥을 먹는 사람이 을지로 식당가 근처에서 서비스를 열었을때, 해당 지역과 관련된 AR광고가 오픈되는 서비스입니다.
 
@@ -63,7 +65,7 @@ _**iOS & Backend / Korea** (2019년 7월 - 2020년 7월)_
 
 ### [Sweettracker](https://apps.apple.com/kr/app/id523045854)
 
-_**iOS Dev / Korea**– (2017년 8월 - 2018년 6월)_
+_**iOS App Developer /** 서울_ _– (2017년 8월 - 2018년 6월)_
 
 스마트택배는 다양한 택배사의 정보를 취합하여 고객에게 배송정보를 전달하는 서비스로, 월간 평균 5000만건의 택배정보 그리고 **iOS 기준 MAU 20만 / DAU 5만** 정도의 유저에게 서비스되고 있는 앱입니다.
 
