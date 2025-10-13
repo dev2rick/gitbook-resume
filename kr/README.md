@@ -27,10 +27,12 @@ layout:
 <figure><picture><source srcset=".gitbook/assets/headline_dark.png" media="(prefers-color-scheme: dark)"><img src=".gitbook/assets/headline_light.png" alt=""></picture><figcaption></figcaption></figure>
 {% endif %}
 
+
+
 ## 주요 경험
 
 {% columns %}
-{% column width="66.66666666666666%" %}
+{% column width="66.66666666666666%" valign="middle" %}
 ### 📦 **모듈화 · 아키텍처 개선으로 확장성과 안정성 확보,** 모듈 이식으로 지원 블록체인 네트워크 <mark style="color:red;">**3배**</mark> 확대.
 
 ### 🥇 1인 개발자로 <mark style="color:red;">**앱스토어 생산성 1위**</mark>**,&#x20;**<mark style="color:red;">**15만+ 다운로드**</mark>를 기록한 경험.
@@ -83,9 +85,13 @@ layout:
 {% endcolumn %}
 {% endcolumns %}
 
+
+
 ## 연락하기
 
 ✉️ Email: [dev@2rick.com](mailto:dev@2rick.com)
+
+
 
 ***
 
