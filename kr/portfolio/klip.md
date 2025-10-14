@@ -21,7 +21,7 @@ layout:
 
 ***
 
-## **📌 개요**
+## **📌 개요** <a href="#outline" id="outline"></a>
 
 * **프로젝트 참여 기간**: 2025년 4월 \~ 현재
 * **프로젝트 참여 인원**: iOS 개발 2인 / Android 개발 2인
@@ -30,13 +30,13 @@ layout:
 
 ***
 
-## **🧩 프로젝트 소개**
+## **🧩 프로젝트 소개** <a href="#intro" id="intro"></a>
 
 'ABCWallet'에서 구축한 모듈을 'Klip' 앱에 이식하며 블록체인 지원 범위를 기존 4개에서 12개로 확장했습니다. Swift Package Manager 기반 모듈화와 클린 아키텍처를 적용해 코드 변경을 최소화하면서도 안정성과 재사용성을 확보했습니다. 이를 통해 다양한 네트워크를 유연하게 통합할 수 있었고, 실제 서비스 운영에서 확장 가능한 아키텍처의 효과를 입증했습니다.
 
 ***
 
-## **🔧 기술 스택 및 아키텍처**
+## **🔧 기술 스택 및 아키텍처** <a href="#tech-stack" id="tech-stack"></a>
 
 * **아키텍처**: Clean Architecture
 * **모듈 관리**: Swift Package Manager
@@ -46,7 +46,7 @@ layout:
 
 ***
 
-## **🚀 역할내 구현 사례**
+## **🚀 역할내 구현 사례** <a href="#implementation" id="implementation"></a>
 
 ### **1. ABCWallet 모듈 이식**
 
@@ -77,7 +77,7 @@ layout:
 
 ***
 
-## **🎯 성과**
+## **🎯 성과** <a href="#achieve" id="achieve"></a>
 
 * 기존 4개 → 12 개의 블록체인의 거래를 지원.
 * 팀원과의 협업
@@ -86,7 +86,7 @@ layout:
 
 ***
 
-## **🧠 회고**
+## **🧠 회고** <a href="#review" id="review"></a>
 
 ### **1. 모듈화과정**
 

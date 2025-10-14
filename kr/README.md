@@ -29,7 +29,7 @@ layout:
 
 
 
-## 주요 경험
+## 주요 경험 <a href="#key-experiences" id="key-experiences"></a>
 
 {% columns %}
 {% column width="58.333333333333336%" valign="middle" %}
@@ -47,7 +47,7 @@ layout:
 
 
 
-## 더 알아보기
+## 더 알아보기 <a href="#portfolio" id="portfolio"></a>
 
 {% columns %}
 {% column width="8.333333333333332%" valign="middle" %}
@@ -87,7 +87,7 @@ layout:
 
 
 
-## 연락하기
+## 연락하기 <a href="#contact" id="contact"></a>
 
 ✉️ Email: [dev@2rick.com](mailto:dev@2rick.com)
 
