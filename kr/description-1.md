@@ -22,7 +22,9 @@ layout:
 iOS App Developer | 2022.12 \~ 현재
 
 {% hint style="info" %}
-[ABCWallet](https://apps.apple.com/kr/app/id1642837445), [Klip](https://apps.apple.com/kr/app/id1627665524)은 자산관리 및 멀티체인 거래를 지원하는 블록체인 지갑 서비스로, 초기 React Native 하이브리드 형태에서 기능·성능·확장성을 높이기 위해 네이티브 iOS로 전환한 프로젝트입니다.
+[ABCWallet](https://apps.apple.com/kr/app/id1642837445)은 자산관리 및 멀티체인 거래를 지원하는 블록체인 지갑 서비스입니다. 초기 외주사가 React Native로 개발했으나, 패키지 비공개로 인해 유지보수가 어려워 인하우스에서 네이티브 iOS로 전면 재개발을 진행했습니다. 4개월 만에 클린 아키텍처 기반의 모듈화 구조로 완성했으며, 안정성과 확장성을 모두 확보했습니다.
+
+이때 구축한 공통 지갑 모듈(Wallet Core) 과 WaaS SDK는 이후 GroundX의 [Klip](https://apps.apple.com/kr/app/id1627665524) 앱에도 이식되어, Klip이 지원하는 네트워크를 4개에서 12개로 확장하는 핵심 기반이 되었습니다.
 {% endhint %}
 
 #### 주요 역할 및 기여
@@ -52,14 +54,18 @@ Swift, SwiftUI, Combine, Swift Concurrency, Clean Architecture, SPM(모듈화), 
 1인 프로젝트 | iOS App Developer | 2019.2 \~ 현재
 
 {% hint style="info" %}
-CoreGraphics와 CoreAnimation을 활용해 UIView에 직접 선과 면을 그리는 방식으로 시작된 시간 계획표 앱으로, ‘방학시간표’ 모티브의 원형 시간표 UI/UX가 차별화 포인트입니다.
+하루하루는 원형 시간표 UI를 중심으로 한 시간 계획·관리 앱으로, “방학시간표”의 아날로그 감성을 디지털로 옮겨 사용자에게 직관적인 하루 구조를 제공합니다.
+
+처음에는 CoreGraphics와 CoreAnimation을 활용해 UIView 위에 선과 면을 직접 그리며 UI를 완성했고, 이후 앱 구조를 지속적으로 개선해 iPad, Apple Watch, Widget, CloudKit 동기화까지 확장했습니다.
 {% endhint %}
 
 #### 주요 역할 및 기여
 
-* 1인 개발자로서 기획·디자인·개발·출시·운영까지 전 과정 담당
-* **CoreGraphics/CoreAnimation**을 통한 커스텀 UI 구현
-* CoreData, WidgetKit, WatchKit, StoreKit, CloudKit 등을 추가해 기능 확장
+* 1인 개발자로서 **기획, 디자인, 개발, 운영 전 과정을 수행**
+* CoreGraphics 기반의 원형 시간표 렌더링 로직을 설계하고, 사용자 입력에 따른 실시간 반응형 인터랙션 구현
+* CoreData를 활용한 데이터 모델링 및 iCloud 기반 CloudKit 동기화로 멀티디바이스 환경 지원
+* WidgetKit과 WatchKit을 통한 위젯 및 워치 앱 확장으로 플랫폼 통합 경험 제공
+* SwiftUI 전환 및 StoreKit을 이용한 **Plus+** 구독 모델 도입으로 비즈니스 모델 고도화
 
 #### 성과 및 성취
 
@@ -69,7 +75,7 @@ CoreGraphics와 CoreAnimation을 활용해 UIView에 직접 선과 면을 그리
 
 #### 기술 스택
 
-Swift, SwiftUI, UIKit (CoreGraphics/CoreAnimation), CoreData, WidgetKit, WatchKit, StoreKit, CloudKit
+Swift, UIKit(CoreGraphics/CoreAnimation), SwiftUI, CoreData, CloudKit, WidgetKit, WatchKit, StoreKit, Combine
 
 ***
 
