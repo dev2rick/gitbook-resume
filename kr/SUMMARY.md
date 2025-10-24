@@ -2,8 +2,8 @@
 
 * [소개](README.md)
 * [이력서](resume.md)
+* [경력기술서](description-old.md)
 * [경력기술서](description.md)
-* [경력기술서](description-1.md)
 
 ## 포트폴리오 <a href="#portfolio" id="portfolio"></a>
 
