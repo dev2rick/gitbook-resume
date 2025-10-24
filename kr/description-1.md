@@ -22,18 +22,18 @@ layout:
 iOS App Developer | 2022.12 \~ 현재
 
 {% hint style="info" %}
-[ABCWallet](https://apps.apple.com/kr/app/id1642837445)은 자산관리 및 멀티체인 거래를 지원하는 블록체인 지갑 서비스입니다. 초기 외주사가 React Native로 개발했으나, 패키지 비공개로 인해 유지보수가 어려워 인하우스에서 네이티브 iOS로 전면 재개발을 진행했습니다. 4개월 만에 클린 아키텍처 기반의 모듈화 구조로 완성했으며, 안정성과 확장성을 모두 확보했습니다.
+[ABCWallet](https://apps.apple.com/kr/app/id1642837445)은 자산관리 및 멀티체인 거래를 지원하는 블록체인 지갑 서비스입니다. 초기 외주사가 React Native로 개발했으나, 패키지 비공개로 인해 유지보수가 어려웠고 성능적인 이점을 위해 Native로 전면 재개발을 진행했습니다. 4개월 만에 **Clean Architecture** 기반의 모듈화 구조로 완성했으며, 안정성과 확장성을 모두 확보했습니다.
 
-이때 구축한 공통 지갑 모듈(Wallet Core) 과 WaaS SDK는 이후 GroundX의 [Klip](https://apps.apple.com/kr/app/id1627665524) 앱에도 이식되어, Klip이 지원하는 네트워크를 4개에서 12개로 확장하는 핵심 기반이 되었습니다.
+이때 구축한 Domain, Data 모듈을 GroundX의 [Klip](https://apps.apple.com/kr/app/id1627665524) 앱에 이식하여 지원하는 네트워크를 4개에서 12개로 확장하는 핵심 기반이 되었습니다.
 {% endhint %}
 
 #### 주요 역할 및 기여
 
-* 하이브리드 앱을 약 1년간 유지보수하며 구조적 장단점을 직접 체감하고, 네이티브 전환을 주도함
+* **React-Native** 기반 앱을 약 1년간 유지보수하며 구조적 장단점을 직접 체감하고, 네이티브 전환을 주도함
 * iOS 리뉴얼 기간 약 4개월 동안 기존 기능과 신규 기능(예: Swap, Aptos 네트워크 지원)을 포함한 네이티브 앱 출시
 * 구조적 일관성과 확장성을 확보하기 위해 **Clean Architecture** 도입, Domain / Data / Presentation 모듈로 분리
 * **Swift Concurrency**를 활용해 비동기 로직을 간결하고 안전하게 구현
-* Presentation 레이어는 **SwiftUI** + **Combine**을 적용한 **MVVM 패턴**으로 재설계
+* Presentation 레이어는 **SwiftUI** + **Combine**을 적용한 **MVVM 패턴**을 사용
 * [**WaaS SDK**](portfolio/abc-wallet/waas-sdk.md) **설계** 및 통합을 통해 Wallet API 추상화 및 기능 일관성 확보
 * 모듈화된 구조 덕분에 **Klip** 앱으로의 코드 이식이 최소 수정으로 가능해짐
 
@@ -42,6 +42,7 @@ iOS App Developer | 2022.12 \~ 현재
 * **Clean Architecture** 기반 구조 설계 및 모듈화를 통해 확장성과 유지보수성 확보
 * 네트워크 추가 시 개발 / 테스트 리드타임 단축
 * 앱 전환 과정에서 안정성 및 코드 품질 향상
+* Klip 앱에 지원하는 네트워크를 4개 → 12개로 확장
 
 #### 기술 스택
 
@@ -62,10 +63,10 @@ Swift, SwiftUI, Combine, Swift Concurrency, Clean Architecture, SPM(모듈화), 
 #### 주요 역할 및 기여
 
 * 1인 개발자로서 **기획, 디자인, 개발, 운영 전 과정을 수행**
-* CoreGraphics 기반의 원형 시간표 렌더링 로직을 설계하고, 사용자 입력에 따른 실시간 반응형 인터랙션 구현
+* **CoreGraphics** 기반의 원형 시간표 렌더링 로직을 설계하고, 사용자 입력에 따른 실시간 반응형 인터랙션 구현
 * CoreData를 활용한 데이터 모델링 및 iCloud 기반 CloudKit 동기화로 멀티디바이스 환경 지원
 * WidgetKit과 WatchKit을 통한 위젯 및 워치 앱 확장으로 플랫폼 통합 경험 제공
-* SwiftUI 전환 및 StoreKit을 이용한 **Plus+** 구독 모델 도입으로 비즈니스 모델 고도화
+* SwiftUI 전환 및 StoreKit을 이용한 Plus+ 구독 모델 도입으로 비즈니스 모델 고도화
 
 #### 성과 및 성취
 
@@ -90,7 +91,7 @@ Full-Stack Developer | 2020.09 \~ 2022.06
 #### 주요 역할 및 기여
 
 * 백엔드(60%), 프론트엔드(20%), 모바일(20%) 중심의 풀스택 역할 수행
-* 다국적 팀과 Jira·화상회의 기반 협업
+* 다국적 팀과 Jira, 화상회의 기반 협업
 * “필요한 작업에 누구나 참여 가능”한 유연한 조직문화 속에서 개발 프로세스 전반 경험
 
 #### 성과 및 성취
