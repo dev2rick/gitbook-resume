@@ -41,7 +41,7 @@ layout:
 {% endcolumn %}
 
 {% column width="41.666666666666664%" valign="middle" %}
-<div align="left"><figure><img src=".gitbook/assets/D8B509D5-7EF0-4C30-990C-34C0DD8B7803_1_105_c.jpeg" alt=""><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src=".gitbook/assets/D8B509D5-7EF0-4C30-990C-34C0DD8B7803_1_105_c.jpeg" alt=""><figcaption></figcaption></figure></div>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -51,7 +51,7 @@ layout:
 
 {% columns %}
 {% column width="8.333333333333332%" valign="middle" %}
-<div align="center"><figure><img src=".gitbook/assets/246x0w.jpg" alt="" width="62"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/246x0w.jpg" alt="" width="62"><figcaption></figcaption></figure></div>
 {% endcolumn %}
 
 {% column width="41.66666666666667%" valign="middle" %}
@@ -59,7 +59,7 @@ layout:
 {% endcolumn %}
 
 {% column width="8.333333333333337%" %}
-<div align="center"><figure><img src=".gitbook/assets/246x0w-2.jpg" alt="" width="62"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/246x0w-2.jpg" alt="" width="62"><figcaption></figcaption></figure></div>
 {% endcolumn %}
 
 {% column width="41.666666666666664%" %}
@@ -69,7 +69,7 @@ layout:
 
 {% columns %}
 {% column width="8.333333333333332%" valign="middle" %}
-<div align="center"><figure><img src=".gitbook/assets/246x0w-3.jpg" alt="" width="62"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/246x0w-3.jpg" alt="" width="62"><figcaption></figcaption></figure></div>
 {% endcolumn %}
 
 {% column width="41.66666666666667%" valign="middle" %}
@@ -77,7 +77,7 @@ layout:
 {% endcolumn %}
 
 {% column width="8.333333333333337%" %}
-<div align="center"><figure><img src=".gitbook/assets/246x0w-4.jpg" alt="" width="62"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/246x0w-4.jpg" alt="" width="62"><figcaption></figcaption></figure></div>
 {% endcolumn %}
 
 {% column width="41.666666666666664%" %}
