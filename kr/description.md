@@ -27,6 +27,10 @@ iOS App Developer | 2022.12 \~ 현재
 이때 구축한 Domain, Data 모듈을 GroundX의 [Klip](https://apps.apple.com/kr/app/id1627665524) 앱에 이식하여 지원하는 네트워크를 4개에서 12개로 확장하는 핵심 기반이 되었습니다.
 {% endhint %}
 
+#### 제품명
+
+* [ABC Wallet](https://apps.apple.com/kr/app/id1642837445), [Klip](https://apps.apple.com/kr/app/id1627665524)
+
 #### 주요 역할 및 기여
 
 * **React-Native** 기반 앱을 약 1년간 유지보수하며 구조적 장단점을 직접 체감하고, 네이티브 전환을 주도함
@@ -50,43 +54,17 @@ Swift, SwiftUI, Combine, Swift Concurrency, Clean Architecture, SPM(모듈화), 
 
 ***
 
-### [하루하루 (DayDay)](https://apps.apple.com/kr/app/id1452035712)
-
-1인 프로젝트 | iOS App Developer | 2019.2 \~ 현재
-
-{% hint style="info" %}
-하루하루는 원형 시간표 UI를 중심으로 한 시간 계획·관리 앱으로, “방학시간표”의 아날로그 감성을 디지털로 옮겨 사용자에게 직관적인 하루 구조를 제공합니다.
-
-처음에는 CoreGraphics와 CoreAnimation을 활용해 UIView 위에 선과 면을 직접 그리며 UI를 완성했고, 이후 앱 구조를 지속적으로 개선해 iPad, Apple Watch, Widget, CloudKit 동기화까지 확장했습니다.
-{% endhint %}
-
-#### 주요 역할 및 기여
-
-* 1인 개발자로서 **기획, 디자인, 개발, 운영 전 과정을 수행**
-* **CoreGraphics** 기반의 원형 시간표 렌더링 로직을 설계하고, 사용자 입력에 따른 실시간 반응형 인터랙션 구현
-* CoreData를 활용한 데이터 모델링 및 iCloud 기반 CloudKit 동기화로 멀티디바이스 환경 지원
-* WidgetKit과 WatchKit을 통한 위젯 및 워치 앱 확장으로 플랫폼 통합 경험 제공
-* SwiftUI 전환 및 StoreKit을 이용한 Plus+ 구독 모델 도입으로 비즈니스 모델 고도화
-
-#### 성과 및 성취
-
-* **'오늘의 앱'** 선정, 생산성 카테고리 유료 앱 1위, 전체 **유료 앱 2위** 달성
-* 누적 다운로드 **15만+**, **리뷰 5000+**, **평점 4.6** 유지
-* 사용자 피드백 기반으로 지속적인 UX 개선 및 유지보수 문화 확립
-
-#### 기술 스택
-
-Swift, UIKit(CoreGraphics/CoreAnimation), SwiftUI, CoreData, CloudKit, WidgetKit, WatchKit, StoreKit, Combine
-
-***
-
-### Avanssion (Tokyo)
+### Avanssion
 
 Full-Stack Developer | 2020.09 \~ 2022.06
 
 {% hint style="info" %}
 일본 도쿄 소재 IT기업에서 패션HR 플랫폼 ‘MyBrands’를 일본·싱가포르 대상 서비스로 개발했습니다.
 {% endhint %}
+
+#### 제품명
+
+* Mybrands.jp, Mybrands.sg
 
 #### 주요 역할 및 기여
 
@@ -105,13 +83,17 @@ Node.js, NestJS, React, React-Native, Mobile
 
 ***
 
-### SoftUs (보물섬: 위치기 AR 광고 플랫폼)
+### SoftUs
 
 창업자 | iOS & Backend Developer | 2019.07 \~ 2020.07
 
 {% hint style="info" %}
 정부지원 예비창업패키지에 선정되어 진행한 ‘보물섬’은 위치기반 AR 광고 플랫폼으로, 사용자가 상점 근처를 지날 때 AR 형태로 쿠폰이나 광고 오브젝트가 나타나도록 설계된 서비스입니다. 현실 공간에 디지털 오브젝트를 매핑하는 증강현실 광고 네트워크 구축이 목표였습니다.
 {% endhint %}
+
+#### 제품명 / 과제명
+
+* 보물섬: 위치기 AR 광고 플랫폼
 
 #### 주요 역할 및 기여
 
@@ -135,13 +117,51 @@ Swift, UIKit, ARKit, CoreLocation, AutoLayout, Spring Boot, JPA, REST API, OAuth
 
 ***
 
-### [스윗트래커](https://apps.apple.com/kr/app/id523045854) (스마트택배)
+### 사이드 프로젝트
+
+1인 프로젝트 | iOS App Developer | 2019.2 \~ 현재
+
+{% hint style="info" %}
+하루하루는 원형 시간표 UI를 중심으로 한 시간 계획·관리 앱으로, “방학시간표”의 아날로그 감성을 디지털로 옮겨 사용자에게 직관적인 하루 구조를 제공합니다.
+
+처음에는 CoreGraphics와 CoreAnimation을 활용해 UIView 위에 선과 면을 직접 그리며 UI를 완성했고, 이후 앱 구조를 지속적으로 개선해 iPad, Apple Watch, Widget, CloudKit 동기화까지 확장했습니다.
+{% endhint %}
+
+#### 제품명
+
+* [하루하루](https://apps.apple.com/kr/app/id1627665524)
+
+#### 주요 역할 및 기여
+
+* 1인 개발자로서 **기획, 디자인, 개발, 운영 전 과정을 수행**
+* **CoreGraphics** 기반의 원형 시간표 렌더링 로직을 설계하고, 사용자 입력에 따른 실시간 반응형 인터랙션 구현
+* CoreData를 활용한 데이터 모델링 및 iCloud 기반 CloudKit 동기화로 멀티디바이스 환경 지원
+* WidgetKit과 WatchKit을 통한 위젯 및 워치 앱 확장으로 플랫폼 통합 경험 제공
+* SwiftUI 전환 및 StoreKit을 이용한 Plus+ 구독 모델 도입으로 비즈니스 모델 고도화
+
+#### 성과 및 성취
+
+* **'오늘의 앱'** 선정, 생산성 카테고리 유료 앱 1위, 전체 **유료 앱 2위** 달성
+* 누적 다운로드 **15만+**, **리뷰 5000+**, **평점 4.6** 유지
+* 사용자 피드백 기반으로 지속적인 UX 개선 및 유지보수 문화 확립
+
+#### 기술 스택
+
+Swift, UIKit(CoreGraphics/CoreAnimation), SwiftUI, CoreData, CloudKit, WidgetKit, WatchKit, StoreKit, Combine
+
+***
+
+### 스윗트래커
 
 iOS Developer | 2017.08 \~ 2018.06
 
 {% hint style="info" %}
 다양한 택배사의 정보를 통합 제공하는 국내 대표 배송 조회 서비스로, 월 평균 5천만 건 이상의 택배정보를 처리하는 앱입니다.
 {% endhint %}
+
+#### 제품명
+
+* [스마트택배](https://apps.apple.com/kr/app/id523045854)
 
 #### 주요 역할 및 기여
 
