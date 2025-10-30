@@ -17,7 +17,7 @@ layout:
 
 # 경력기술서
 
-### [안랩블록체인컴퍼니(AhnLab Blockchain Company)](https://ahnlabblockchain.company)
+### [안랩블록체인컴퍼니](https://ahnlabblockchain.company)
 
 iOS App Developer | 2022.12 \~ 현재
 
