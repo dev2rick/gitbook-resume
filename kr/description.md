@@ -22,7 +22,7 @@ layout:
 iOS App Developer | 2022.12 \~ 현재
 
 {% hint style="info" %}
-[ABCWallet](https://apps.apple.com/kr/app/id1642837445)은 자산관리 및 멀티체인 거래를 지원하는 블록체인 지갑 서비스입니다. 초기 외주사가 React Native로 개발했으나, 패키지 비공개로 인해 유지보수가 어려웠고 성능적인 이점을 위해 Native로 전면 재개발을 진행했습니다. 4개월 만에 **Clean Architecture** 기반의 모듈화 구조로 완성했으며, 안정성과 확장성을 모두 확보했습니다.
+[ABCWallet](https://apps.apple.com/kr/app/id1642837445)은 자산관리 및 멀티체인 거래를 지원하는 블록체인 지갑 서비스입니다. 초기 외주사가 React Native로 개발했으나, 패키지 비공개로 인해 유지보수가 어려웠고 성능적인 이점을 위해 Native로 전면 재개발을 진행했습니다. 4개월 만에 **Clean Architecture** 기반의 구조를 완성하여 안정성과 확장성을 모두 확보했습니다.
 
 이때 구축한 Domain, Data 모듈을 GroundX의 [Klip](https://apps.apple.com/kr/app/id1627665524) 앱에 이식하여 지원하는 네트워크를 4개에서 12개로 확장하는 핵심 기반이 되었습니다.
 {% endhint %}
@@ -30,6 +30,10 @@ iOS App Developer | 2022.12 \~ 현재
 #### 제품명
 
 * [ABC Wallet](https://apps.apple.com/kr/app/id1642837445), [Klip](https://apps.apple.com/kr/app/id1627665524)
+
+#### 참여인원
+
+* 기획자: 1 명 | 디자이너: 1명 | BE: 2명 | iOS: 본인 포함 1\~2 명 | Android: 1\~2 명 | QA: 3 명
 
 #### 주요 역할 및 기여
 
@@ -54,7 +58,7 @@ Swift, SwiftUI, Combine, Swift Concurrency, Clean Architecture, SPM(모듈화), 
 
 ***
 
-### Avanssion
+### 아반션
 
 Full-Stack Developer | 2020.09 \~ 2022.06
 
@@ -66,6 +70,10 @@ Full-Stack Developer | 2020.09 \~ 2022.06
 
 * Mybrands.jp, Mybrands.sg
 
+#### 참여인원
+
+* 기획자: 1 명 | 디자이너: 1명 | 개발자(BE, FE, Mobile): 본인 포함 4명 | 개발자(ML): 1명
+
 #### 주요 역할 및 기여
 
 * 백엔드(60%), 프론트엔드(20%), 모바일(20%) 중심의 풀스택 역할 수행
@@ -75,7 +83,7 @@ Full-Stack Developer | 2020.09 \~ 2022.06
 #### 성과 및 성취
 
 * 글로벌 개발 환경에서 다양한 분야를 경험하며 종합적 시스템 이해도 확보
-* 이후 iOS 전문 분야로의 전환 기반 마련
+* React, React-Native 에 대한 경험을 통해 하이브리드앱 개발을 시작
 
 #### 기술 스택
 
@@ -83,7 +91,7 @@ Node.js, NestJS, React, React-Native, Mobile
 
 ***
 
-### SoftUs
+### 소프트어스
 
 창업자 | iOS & Backend Developer | 2019.07 \~ 2020.07
 
@@ -93,7 +101,11 @@ Node.js, NestJS, React, React-Native, Mobile
 
 #### 제품명 / 과제명
 
-* 보물섬: 위치기 AR 광고 플랫폼
+* 보물섬: 위치기반 AR 광고 플랫폼
+
+#### 참여인원 및 역할
+
+* 본인 (창업자, Backend, iOS 앱 개발) | 동료 (공동창업자, 시장조사, Frontend)
 
 #### 주요 역할 및 기여
 
@@ -124,16 +136,19 @@ Swift, UIKit, ARKit, CoreLocation, AutoLayout, Spring Boot, JPA, REST API, OAuth
 {% hint style="info" %}
 하루하루는 원형 시간표 UI를 중심으로 한 시간 계획·관리 앱으로, “방학시간표”의 아날로그 감성을 디지털로 옮겨 사용자에게 직관적인 하루 구조를 제공합니다.
 
-처음에는 CoreGraphics와 CoreAnimation을 활용해 UIView 위에 선과 면을 직접 그리며 UI를 완성했고, 이후 앱 구조를 지속적으로 개선해 iPad, Apple Watch, Widget, CloudKit 동기화까지 확장했습니다.
+초에는 CoreGraphics와 CoreAnimation을 활용해 UIView 위에 선과 면을 직접 그리며 UI를 완성했고, 이후 앱 구조를 지속적으로 개선해 iPad, Apple Watch, Widget, CloudKit 동기화까지 확장했습니다.
 {% endhint %}
 
 #### 제품명
 
 * [하루하루](https://apps.apple.com/kr/app/id1627665524)
 
+#### 참여인원 및 역할
+
+* 본인 (초기 기획, 디자인, 개발, 운영) | 동료 - 최근에 합류 (기획, 디자인)
+
 #### 주요 역할 및 기여
 
-* 1인 개발자로서 **기획, 디자인, 개발, 운영 전 과정을 수행**
 * **CoreGraphics** 기반의 원형 시간표 렌더링 로직을 설계하고, 사용자 입력에 따른 실시간 반응형 인터랙션 구현
 * CoreData를 활용한 데이터 모델링 및 iCloud 기반 CloudKit 동기화로 멀티디바이스 환경 지원
 * WidgetKit과 WatchKit을 통한 위젯 및 워치 앱 확장으로 플랫폼 통합 경험 제공
@@ -162,6 +177,10 @@ iOS Developer | 2017.08 \~ 2018.06
 #### 제품명
 
 * [스마트택배](https://apps.apple.com/kr/app/id523045854)
+
+#### 참여인원 및 역할
+
+* 기획자: 1 명 | 디자이너: 1명 | iOS: 본인 1명 | Android: 2명 | BE: 2명 | FE: 1명
 
 #### 주요 역할 및 기여
 
