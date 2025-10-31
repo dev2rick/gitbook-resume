@@ -25,7 +25,7 @@ layout:
 
 * **프로젝트 기간**: 2024년 1월 \~ 2025년 4월 (마지막 업데이트)
 * **역할**: iOS 앱 개발, Swap 서버 개발
-* **팀 구성**: 기획자 1명, 디자이너 1명, iOS 1명, And 1명, Server 1명, QA 1명
+* **팀 구성**: 기획자 1명, 디자이너 1명, iOS 1명, Android 1명, Server 2명, QA 3명
 * **출시일**: 2024년 5월
 * **앱스토어 링크**: [https://apps.apple.com/kr/app/id1642837445](https://apps.apple.com/kr/app/id1642837445)
 
