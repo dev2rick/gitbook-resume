@@ -24,8 +24,8 @@ layout:
 ## **📌 개요** <a href="#outline" id="outline"></a>
 
 * **프로젝트 참여 기간**: 2025년 4월 \~ 현재
-* **팀 구성**: 기획자 1명, 디자이너 1명, iOS 2명, Android 2명, Server 2명, QA 3명
 * **역할**: iOS 앱 개발, 멀티체인 (Bitcoin, Solana, Tron, Arbitrum 등…) 지원
+* **팀 구성**: 기획자 1명, 디자이너 1명, iOS 2명, Android 2명, Server 2명, QA 3명
 * **앱스토어 링크**: [https://apps.apple.com/kr/app/id1627665524](https://apps.apple.com/kr/app/id1627665524)
 
 ***
