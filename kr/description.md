@@ -136,7 +136,7 @@ Swift, UIKit, ARKit, CoreLocation, AutoLayout, Spring Boot, JPA, REST API, OAuth
 {% hint style="info" %}
 하루하루는 원형 시간표 UI를 중심으로 한 시간 계획·관리 앱으로, “방학시간표”의 아날로그 감성을 디지털로 옮겨 사용자에게 직관적인 하루 구조를 제공합니다.
 
-초에는 CoreGraphics와 CoreAnimation을 활용해 UIView 위에 선과 면을 직접 그리며 UI를 완성했고, 이후 앱 구조를 지속적으로 개선해 iPad, Apple Watch, Widget, CloudKit 동기화까지 확장했습니다.
+초기에는 CoreGraphics와 CoreAnimation을 활용해 UIView 위에 선과 면을 직접 그리며 UI를 완성했고, 이후 앱 구조를 지속적으로 개선해 iPad, Apple Watch, Widget, CloudKit 동기화까지 확장했습니다.
 {% endhint %}
 
 #### 제품명
@@ -194,4 +194,4 @@ iOS Developer | 2017.08 \~ 2018.06
 
 #### 기술 스택
 
-Objective-C, Swift, UIKit, REST API, MVC, Javascript
+Objective-C, Swift, UIKit, REST API, MVC, JavaScript
