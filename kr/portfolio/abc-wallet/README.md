@@ -153,6 +153,15 @@ public final class DefaultSNSLoginUseCase: SNSLoginUseCase {
 
 ***
 
+## **🎯 성과** <a href="#achieve" id="achieve"></a>
+
+* **Clean Architecture** 기반으로 iOS 앱의 구조를 재정립하여, 기능 확장 시 코드 수정 범위를 최소화하고 유지보수 효율을 극대화함
+* **Swift Package Manager(SPM)** 를 활용한 모듈화로 핵심 도메인(Domain, Data)을 재사용 가능하게 설계하여 **Klip 프로젝트로의 이식이 최소 수정으로 가능**해짐
+* **비동기 로직(Access Token 관리, WalletConnect, 자산 전송)** 등의 안정성을 확보하고, **동시성 제어 및 추상화 레이어를 개선**하여 클라이언트 장애율을 낮춤
+* 프로젝트 내 **Swap 서버 및 WaaS SDK 설계**를 주도하여, 지갑 관련 API 추상화 및 서비스 간 기능 일관성을 확보
+
+***
+
 ## **🧠 회고**
 
 ### **1. Access Token 관리 로직의 동시성 제어가 가장 어려웠던 부분**
