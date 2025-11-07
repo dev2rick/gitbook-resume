@@ -19,6 +19,21 @@ description: iOS Developer
 | 2010.03 \~ 2016.08 | 한국외국어대학교 졸업 | <p>디지털정보공학과 (주전공)<br>국제경영학 (부전공)</p> |
 | 2007.03 \~ 2010.02 | 수리고등학교 졸업   | -                                    |
 
+## 👩‍💻 경력사항 (7년차) <a href="#career" id="career"></a>
+
+| 기간                                         | 회사                                                           | 주요 업무                                                                                                                        |
+| ------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
+| <p>2022.12 ~ 2025.8 (육아휴직) </p><p>~ 현재</p> | <p>안랩블록체인컴퍼니</p><p><sup>정규직 | iOS Developer</sup></p>        | <p>가상자산 지갑 개발 (ABC Wallet, Klip)<br>• RN → Native 전환 (4개월)<br>• Clean Architecture + SPM 모듈화<br>• Wallet SDK, Swap 서버 개발</p> |
+| 2020.09 \~ 2022.06                         | <p>Avanssion</p><p><sup>정규직 | Full-Stack Developer</sup></p> | <p>MyBrands 플랫폼 개발<br>• Backend 60%, Frontend 20%, Mobile 20%<br>• 글로벌 팀 협업</p>                                              |
+| 2019.07 \~ 2020.07                         | <p>소프트어스</p><p><sup>창업자 | Developer</sup></p>                | <p>예비창업패키지 선정<br>• 위치기반 AR 광고 플랫폼 개발<br>• iOS App + Spring Boot 서버</p>                                                       |
+| 2017.08 \~ 2018.06                         | <p>스윗트래커</p><p><sup>정규직 | iOS Developer</sup></p>            | <p>스마트택배 앱 개발/운영<br>• Objective-C → Swift 전환<br>• MAU 20만, DAU 5만</p>                                                        |
+
+## 📱사이드 프로젝트 <a href="#side-proj" id="side-proj"></a>
+
+| 기간            | 프로젝트                                               | 성과                                                                           |
+| ------------- | -------------------------------------------------- | ---------------------------------------------------------------------------- |
+| 2019.02 \~ 현재 | [하루하루](https://apps.apple.com/kr/app/id1452035712) | <p>• 생산성 1위, 15만+ 다운로드<br>•  평점 4.6, 리뷰 5,000+<br>• AppStore '오늘의 앱' 선정 </p> |
+
 ## 📖 자격증 & 교육 <a href="#cert" id="cert"></a>
 
 | 기간                       | 내용                         | 기관       |
@@ -35,22 +50,7 @@ description: iOS Developer
 
 ## 🛠 주요기술 <a href="#skills" id="skills"></a>
 
-1. Swift : `Advanced`
+1. Swift, UIKit : `Advanced`
 2. SwiftUI / Swift Concurrency / Combine / RxSwift: `Intermediate to Advanced`
-3. Objective-C: `Basic`
-
-## 👩‍💻 경력사항 (7년차) <a href="#career" id="career"></a>
-
-| 기간                                         | 회사                                                           | 주요 업무                                                                                                                        |
-| ------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
-| <p>2022.12 ~ 2025.8 (육아휴직) </p><p>~ 현재</p> | <p>안랩블록체인컴퍼니</p><p><sup>정규직 | iOS Developer</sup></p>        | <p>가상자산 지갑 개발 (ABC Wallet, Klip)<br>• RN → Native 전환 (4개월)<br>• Clean Architecture + SPM 모듈화<br>• Wallet SDK, Swap 서버 개발</p> |
-| 2020.09 \~ 2022.06                         | <p>Avanssion</p><p><sup>정규직 | Full-Stack Developer</sup></p> | <p>MyBrands 플랫폼 개발<br>• Backend 60%, Frontend 20%, Mobile 20%<br>• 글로벌 팀 협업</p>                                              |
-| 2019.07 \~ 2020.07                         | <p>소프트어스</p><p><sup>창업자 | Developer</sup></p>                | <p>예비창업패키지 선정<br>• 위치기반 AR 광고 플랫폼 개발<br>• iOS App + Spring Boot 서버</p>                                                       |
-| 2017.08 \~ 2018.06                         | <p>스윗트래커</p><p><sup>정규직 | iOS Developer</sup></p>            | <p>스마트택배 앱 개발/운영<br>• Objective-C → Swift 전환<br>• MAU 20만, DAU 5만</p>                                                        |
-
-## 📱사이드 프로젝트 <a href="#side-proj" id="side-proj"></a>
-
-| 기간            | 프로젝트                                               | 성과                                                                           |
-| ------------- | -------------------------------------------------- | ---------------------------------------------------------------------------- |
-| 2019.02 \~ 현재 | [하루하루](https://apps.apple.com/kr/app/id1452035712) | <p>• 유료앱 2위, 15만+ 다운로드<br>•  평점 4.6, 리뷰 5,000+<br>• AppStore 피처드 (한국/중국)</p> |
-
+3. React / React-Native / Redux:  `Intermediate`
+4. Objective-C: `Basic`

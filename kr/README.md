@@ -33,9 +33,9 @@ layout:
 
 {% columns %}
 {% column width="58.333333333333336%" valign="middle" %}
-### 📦 **모듈화 · 아키텍처 개선으로 확장성과 안정성 확보,** 모듈 이식으로 지원 블록체인 네트워크 <mark style="color:red;">**3배**</mark> 확대.
-
 ### 🥇 1인 개발자로 <mark style="color:red;">**앱스토어 생산성 1위**</mark>**,&#x20;**<mark style="color:red;">**15만+ 다운로드**</mark>를 기록한 경험.
+
+### 📦 **모듈화 · 아키텍처 개선으로 확장성과 안정성 확보,** 모듈 이식으로 지원 블록체인 네트워크 <mark style="color:red;">**3배**</mark> 확대.
 
 ### 🎭 제품을 위해 iOS를 넘어 <mark style="color:red;">서버 · React-Native</mark>까지 경험한 엔지니어
 {% endcolumn %}
@@ -51,29 +51,29 @@ layout:
 
 {% columns %}
 {% column width="8.333333333333332%" valign="middle" %}
-<div align="left"><figure><img src=".gitbook/assets/246x0w.jpg" alt="" width="62"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/246x0w-3.jpg" alt="" width="62"><figcaption></figcaption></figure></div>
 {% endcolumn %}
 
 {% column width="41.66666666666667%" valign="middle" %}
-[\[Klip\] 지원 네트워크 3배 확대](https://resume.2rick.com/portfolio/klip)
+[\[하루하루\] 생산성 1위](https://resume.2rick.com/portfolio/haruharu)
 {% endcolumn %}
 
 {% column width="8.333333333333337%" %}
-<div align="left"><figure><img src=".gitbook/assets/246x0w-2.jpg" alt="" width="62"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/246x0w.jpg" alt="" width="62"><figcaption></figcaption></figure></div>
 {% endcolumn %}
 
 {% column width="41.666666666666664%" %}
-[\[ABCWallet\] 아키텍쳐 + 모듈화](https://resume.2rick.com/portfolio/abc-wallet)
+[\[Klip\] 지원 네트워크 3배 확대](https://resume.2rick.com/portfolio/klip)
 {% endcolumn %}
 {% endcolumns %}
 
 {% columns %}
 {% column width="8.333333333333332%" valign="middle" %}
-<div align="left"><figure><img src=".gitbook/assets/246x0w-3.jpg" alt="" width="62"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/246x0w-2.jpg" alt="" width="62"><figcaption></figcaption></figure></div>
 {% endcolumn %}
 
 {% column width="41.66666666666667%" valign="middle" %}
-[\[하루하루\] 생산성 유료 1위](https://resume.2rick.com/portfolio/haruharu)
+[\[ABCWallet\] 아키텍쳐 + 모듈화](https://resume.2rick.com/portfolio/abc-wallet)
 {% endcolumn %}
 
 {% column width="8.333333333333337%" %}
